@@ -10,7 +10,8 @@
 
 The lab models a multi-floor hospital campus with access switches, multilayer distribution switches, VLAN-separated departments, and central servers. The VLAN 98 backup server is named **BumbleBee**; the VLAN 99 primary server is named **OptimusPrime**.
 
-![Packet Tracer enterprise lab topology](screenshots/01-enterprise-lab-topology.png)
+<img width="1708" height="744" alt="Network Topology" src="https://github.com/user-attachments/assets/0dcfccbe-7ad3-4e23-a97b-da478ea7cd48" />
+
 
 ### Relevant devices and addressing
 

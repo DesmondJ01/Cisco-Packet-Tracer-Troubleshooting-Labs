@@ -185,9 +185,7 @@ Additional future work includes routed core switches, OSPF, WAN/branch connectiv
 
 I'll add a video walkthrough demonstrating the symptoms, diagnostic commands, configuration fixes, and successful final connectivity test.
 
-**Video:** [Watch the troubleshooting lab on YouTube](PASTE_YOUR_YOUTUBE_VIDEO_URL_HERE)
-
-> Replace `PASTE_YOUR_YOUTUBE_VIDEO_URL_HERE` with the published or unlisted YouTube video URL.
+**Video:** https://youtu.be/WKCD9Nfgo1k
 
 ## Screenshots
 
